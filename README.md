@@ -8,7 +8,7 @@ The number will always contain 4 digits.
 There will be only digits from 1-9.
 Digits will always be unique.
 
-# Example: Number: 1234, Guess: 1356 - Bulls: 1, Cows: 1
+Example: Number: 1234, Guess: 1356 - Bulls: 1, Cows: 1
 1 is a bull and 3 is a cow.
 
-# Cheat code: 9999 (Reveals the picked number)
+Cheat code: 9999 (Reveals the picked number)
