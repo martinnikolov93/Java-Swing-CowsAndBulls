@@ -1,6 +1,6 @@
 # This is my java written game using Swing for graphical interface.
 
-# Info: 
+# How to play: 
 Computer thinks of a 4 digit number and you have to guess it.
 Cow is when a digit is contained in the number but not in the proper place.
 Bull is when a digit is contained and is in the proper place.
